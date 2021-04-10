@@ -1,0 +1,21 @@
+{
+    "name": "code-green",
+    "displayName": "Code Green",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code Green-color-theme.json"
+            }
+        ]
+    }
+}
