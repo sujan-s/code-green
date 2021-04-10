@@ -13,15 +13,23 @@
         "editor.foreground": "#eeffff",
         "editorLineNumber.foreground" : "#439987",
         "editorLineNumber.activeForeground" : "#DBDC0A",
+        "editorRuler.foreground" : "#2c6357",
+        "editorWhitespace.foreground" : "#2c6357",
         "editorCursor.foreground" : "#DBDC0A",
         "editor.lineHighlightBorder" : "#224e44",
         "editor.lineHighlightBackground" : "#2c6357",
+        "editorIndentGuide.activeBackground" : "#439987",
+        "editorBracketMatch.background" : "#439987",
         "editor.selectionBackground" : "#367c6d",
         "editor.selectionHighlightBackground" : "#2c6357",
 
         "editorGroup.border" : "#367c6d",
         "editorGroupHeader.tabsBackground" : "#1a3c35",
         "editorGroupHeader.tabsBorder" : "#1a3c35",
+
+        "dropdown.foreground" : "#fff",
+        "dropdown.background" : "#1a3c35",
+        "dropdown.border" : "#1a3c35",
 
         "sideBar.background": "#1a3c35",
         "sideBarTitle.foreground": "#666b69",
@@ -82,7 +90,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#546E7A"
+                "foreground": "#25937b"
             }
         },
         {

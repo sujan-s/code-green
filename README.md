@@ -1,4 +1,4 @@
-# README
+# Code Green for VSCode
 ## This is the README for your extension "code-green"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
