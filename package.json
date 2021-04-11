@@ -1,9 +1,10 @@
 {
     "name": "code-green",
     "displayName": "Code Green",
-    "description": "",
-    "version": "0.9.3",
+    "description": "A dark low-constrast theme of subtle greens and other mindfully-picked hues.",
+    "version": "0.9.4",
     "publisher": "Sujan",
+    "repository": "https://github.com/sujan-s/code-green",
     "icon": "images/code-green-icon.png",
     "engines": {
         "vscode": "^1.55.0"
