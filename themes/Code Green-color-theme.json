@@ -26,10 +26,10 @@
         "dropdown.background": "#1a3c35",
         "dropdown.border": "#1a3c35",
 
+        "diffEditor.diagonalFill": "#2c6357",
         "diffEditor.insertedTextBorder": "#dbdc0a33",
         "diffEditor.removedTextBackground": "#f3463966",
         "diffEditor.removedTextBorder": "#f3463966",
-        "diffEditor.diagonalFill": "#2c6357",
 
         "editor.background": "#224e44",
         "editor.foreground": "#eeffff",
@@ -79,15 +79,15 @@
         "editorWhitespace.foreground": "#2c6357",
 
         "gitDecoration.addedResourceForeground": "#dbdc0a",
-        "gitDecoration.modifiedResourceForeground": "#2caf93",
         "gitDecoration.conflictingResourceForeground": "#f34639",
         "gitDecoration.deletedResourceForeground": "#ff6a49",
+        "gitDecoration.modifiedResourceForeground": "#2caf93",
         "gitDecoration.renamedResourceForeground": "#dbdc0a",
         "gitDecoration.untrackedResourceForeground": "#439987",
 
-        "input.placeholderForeground": "#439987",
         "input.background": "#1f473f",
         "input.border": "#285c51",
+        "input.placeholderForeground": "#439987",
         "inputValidation.errorBackground": "#f34639",
         "inputValidation.errorForeground": "#fff",
         "inputValidation.errorBorder": "#f34639",
@@ -353,7 +353,7 @@
             "scope": ["entity.name.method.js"],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -363,7 +363,7 @@
                 "variable.function.constructor"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -395,7 +395,7 @@
             "name": "CSS ID's",
             "scope": ["source.sass keyword.control"],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -448,7 +448,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -512,7 +512,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -638,7 +638,7 @@
             "name": "Markdown - Link",
             "scope": ["string.other.link.title.markdown"],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#82aaff"
             }
         },
         {
@@ -708,6 +708,48 @@
             "settings": {
                 "foreground": "#EEFFFF"
             }
-        }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["source.go"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["storage.type.string.go"],
+            "settings": {
+                "foreground": "#ffcb6b"
+            }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["keyword.control.go"],
+            "settings": {
+                "foreground": "#dbdc0a"
+            }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["support.function.go"],
+            "settings": {
+                "foreground": "#f07178"
+            }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["keyword.function.go"],
+            "settings": {
+                "foreground": "#fac7be"
+            }
+        },
+        {
+            "name": "GoLang",
+            "scope": ["keyword.operator.comparison.go"],
+            "settings": {
+                "foreground": "#ffcc6b"
+            }
+        },
     ]
 }
