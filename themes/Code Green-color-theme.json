@@ -824,9 +824,26 @@
         },
         {
             "name": "Scala",
-            "scope": ["source.scala"],
+            "scope": ["source.scala", "source.haskell"],
             "settings": {
                 "foreground": "#c3e88d"
+            }
+        },
+        {
+            "name": "Scala",
+            "scope": ["constant.other.haskell"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Scala",
+            "scope": [
+                "meta.function.type-declaration.haskell",
+                "storage.type.haskell"
+            ],
+            "settings": {
+                "foreground": "#f07178"
             }
         }
     ]
