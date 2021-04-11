@@ -50,8 +50,8 @@
         "editorGroupHeader.tabsBackground": "#1a3c35",
         "editorGroupHeader.tabsBorder": "#1a3c35",
 
-        "editorGutter.modifiedBackground": "#439987",
-        "editorGutter.addedBackground": "#dbdc0a",
+        "editorGutter.modifiedBackground": "#2c6357",
+        "editorGutter.addedBackground": "#439987",
         "editorGutter.deletedBackground": "#ff6a49",
 
         "editorHoverWidget.background": "#1f473f",
@@ -62,7 +62,7 @@
         "editorLineNumber.foreground": "#439987",
         "editorLineNumber.activeForeground": "#dbdc0a",
 
-        "editorOverviewRuler.background": "#dbdc0a",
+        "editorOverviewRuler.background": "#224e44",
         "editorOverviewRuler.findMatchForeground": "#2c635766",
 
         "editorRuler.foreground": "#2c6357",
@@ -105,6 +105,8 @@
         "list.focusOutline": "#224e44",
 
         "menubar.selectionBackground": "#439987",
+
+        "minimap.selectionHighlight": "#43998799",
 
         "notifications.foreground": "#fff",
         "notifications.background": "#439987",
