@@ -2,7 +2,8 @@
     "name": "code-green",
     "displayName": "Code Green",
     "description": "",
-    "version": "0.8.2",
+    "version": "0.9.1",
+    "publisher": "Sujan",
     "engines": {
         "vscode": "^1.55.0"
     },
