@@ -2,9 +2,9 @@
     "name": "code-green",
     "displayName": "Code Green",
     "description": "",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "publisher": "Sujan",
-    "icon": "https://vscode-ext-icons.s3.ap-south-1.amazonaws.com/code-green.png",
+    "icon": "images/code-green-icon.png",
     "engines": {
         "vscode": "^1.55.0"
     },
