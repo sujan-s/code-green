@@ -26,6 +26,11 @@
         "dropdown.background": "#1a3c35",
         "dropdown.border": "#1a3c35",
 
+        "diffEditor.insertedTextBorder": "#dbdc0a33",
+        "diffEditor.removedTextBackground": "#f3463966",
+        "diffEditor.removedTextBorder": "#f3463966",
+        "diffEditor.diagonalFill": "#2c6357",
+
         "editor.background": "#224e44",
         "editor.foreground": "#eeffff",
         "editor.findMatchBackground": "#2c6357",
@@ -41,17 +46,24 @@
 
         "editorCursor.foreground": "#dbdc0a",
 
+        "editorGroup.border": "#367c6d",
+        "editorGroupHeader.tabsBackground": "#1a3c35",
+        "editorGroupHeader.tabsBorder": "#1a3c35",
+
+        "editorGutter.modifiedBackground": "#439987",
+        "editorGutter.addedBackground": "#dbdc0a",
+        "editorGutter.deletedBackground": "#ff6a49",
+
+        "editorHoverWidget.background": "#1f473f",
+        "editorHoverWidget.border": "#1a3c35",
+
         "editorIndentGuide.activeBackground": "#439987",
 
         "editorLineNumber.foreground": "#439987",
         "editorLineNumber.activeForeground": "#dbdc0a",
 
-        "editorGroup.border": "#367c6d",
-        "editorGroupHeader.tabsBackground": "#1a3c35",
-        "editorGroupHeader.tabsBorder": "#1a3c35",
-
-        "editorHoverWidget.background": "#1f473f",
-        "editorHoverWidget.border": "#1a3c35",
+        "editorOverviewRuler.background": "#dbdc0a",
+        "editorOverviewRuler.findMatchForeground": "#2c635766",
 
         "editorRuler.foreground": "#2c6357",
 
