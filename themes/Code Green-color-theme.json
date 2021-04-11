@@ -807,6 +807,27 @@
             "settings": {
                 "foreground": "#82aaff"
             }
+        },
+        {
+            "name": "Scala",
+            "scope": ["meta.embedded.line.scala"],
+            "settings": {
+                "foreground": "#fac7be"
+            }
+        },
+        {
+            "name": "Scala",
+            "scope": ["meta.template.expression.scala"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Scala",
+            "scope": ["source.scala"],
+            "settings": {
+                "foreground": "#c3e88d"
+            }
         }
     ]
 }
