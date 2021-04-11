@@ -1,6 +1,6 @@
 # Code Green for VSCode
 
-## Current version 0.9.10
+## Current version 0.9.11
 
 ### A carefully concocted dark theme made of shades of green that soothes the eyes.
 

@@ -845,6 +845,41 @@
             "settings": {
                 "foreground": "#f07178"
             }
+        },
+        {
+            "name": "Scala",
+            "scope": ["meta.body.function.definition.cpp"],
+            "settings": {
+                "foreground": "#f07178"
+            }
+        },
+        {
+            "name": "C++",
+            "scope": ["meta.body.function.definition.cpp"],
+            "settings": {
+                "foreground": "#c3e88d"
+            }
+        },
+        {
+            "name": "C++",
+            "scope": ["meta.parens.cpp"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "C++",
+            "scope": ["entity.name.scope-resolution.cpp"],
+            "settings": {
+                "foreground": "#f07178"
+            }
+        },
+        {
+            "name": "C++",
+            "scope": ["storage.modifier.specifier.const.cpp"],
+            "settings": {
+                "foreground": "#ff5370"
+            }
         }
     ]
 }
