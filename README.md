@@ -1,6 +1,6 @@
 # Code Green for VSCode
 
-## Current version 0.9.1
+## Current version 0.9.2
 
 ### A carefully concocted dark theme made of shades of green that soothes the eyes.
 
@@ -10,7 +10,7 @@
 2. Paste this— `ext install Sujan.code-green`
 3. Hit Enter
 4. Hit Cmd+Shift+P / Ctrl+Shift+P, and type "Color theme" and hit enter.
-5. You should now see Code Blue in the list. Select and hit enter again.
+5. You should now see Code Green in the list. Select and hit enter again.
 
 #### Additional steps
 

@@ -341,8 +341,7 @@
             "name": "Attributes",
             "scope": ["entity.other.attribute-name"],
             "settings": {
-                "fontStyle": "bold",
-                "foreground": "#8cd1e3"
+                "foreground": "#8cd7ae"
             }
         },
         {
