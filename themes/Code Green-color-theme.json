@@ -880,6 +880,79 @@
             "settings": {
                 "foreground": "#ff5370"
             }
-        }
+        },
+        {
+            "name": "CSS",
+            "scope": ["constant.numeric.css"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "CSS",
+            "scope": [
+                "keyword.other.unit.percentage.css",
+                "keyword.other.unit.px.css",
+                "keyword.other.unit.em.css",
+                "keyword.other.unit.ch.css",
+                "keyword.other.unit.vh.css",
+                "keyword.other.unit.vw.css",
+                "keyword.other.unit.vmax.css",
+                "keyword.other.unit.vmin.css",
+                "keyword.other.unit.rem.css"
+            ],
+            "settings": {
+                "foreground": "#C792EA"
+            }
+        },
+        {
+            "name": "Kotlin",
+            "scope": ["storage.type.kotlin"],
+            "settings": {
+                "foreground": "#ff5370"
+            }
+        },
+        {
+            "name": "Kotlin",
+            "scope": ["meta.block.kotlin"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Kotlin",
+            "scope": ["storage.modifier.import.java"],
+            "settings": {
+                "foreground": "#f78c6c"
+            }
+        },
+        {
+            "name": "SQL",
+            "scope": ["keyword.other.sql"],
+            "settings": {
+                "foreground": "#f78c6c"
+            }
+        },
+        {
+            "name": "SQL",
+            "scope": ["source.sql"],
+            "settings": {
+                "foreground": "#ffcb6b"
+            }
+        },
+        {
+            "name": "SQL",
+            "scope": ["constant.other.database-name.sql"],
+            "settings": {
+                "foreground": "#C792EA"
+            }
+        },
+        {
+            "name": "SQL",
+            "scope": ["constant.other.table-name.sql"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
     ]
 }
