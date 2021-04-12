@@ -20,13 +20,23 @@
             text-align: center;
         }
 
-        h1 { font-size : 3em; }
+        h1 {
+            font-size     : 3em;
+            margin-bottom : 0;
+        }
 
         h2 { font-weight : 400; }
-        
+
+        a,
         h3 {
             color  : #dadc02;
-            margin : 1em 1em 0 48px;
+            margin : 0 1em 0 48px;
+        }
+
+        .hero-image {
+            display : block;
+            width   : 56vw;
+            margin  : 0 auto 6vh auto;
         }
 
         .image-wrapper {
@@ -46,60 +56,63 @@
 <body>
     <header>
         <h1>Code Green</h1>
+        <h2>v0.9.12</h2>
         <h2>A dark low-constrast theme of subtle greens and other mindfully-picked hues.</h2>
+        <h3 style="text-align: center;"><a href="https://github.com/sujan-s/code-green" target="_blank">Github &#8599;</a></h3>
     </header>
+
+    <img class="hero-image" src="./images/ide.png" alt="Hero image" />
 
     <div class="image-wrapper">
         <div class="image-set">
             <h3>Javascript</h3>
-            <img src="../images/sample-js.png" alt="Sample javascript" />
+            <img src="./images/sample-js.png" alt="Sample Javascript" />
         </div>
 
         <div class="image-set">
             <h3>Typescript</h3>
-            <img src="../images/sample-ts.png" alt="Sample javascript" />
+            <img src="./images/sample-ts.png" alt="Sample Typescript" />
         </div>
 
         <div class="image-set">
             <h3>HTML</h3>
-            <img src="../images/sample-html.png" alt="Sample javascript" />
+            <img src="./images/sample-html.png" alt="Sample HTML" />
         </div>
 
         <div class="image-set">
             <h3>CSS</h3>
-            <img src="../images/sample-css.png" alt="Sample javascript" />
+            <img src="./images/sample-css.png" alt="Sample CSS" />
         </div>
 
         <div class="image-set">
             <h3>Java</h3>
-            <img src="../images/sample-java.png" alt="Sample javascript" />
+            <img src="./images/sample-java.png" alt="Sample Java" />
         </div>
 
         <div class="image-set">
             <h3>ShellScript</h3>
-            <img src="../images/sample-shell.png" alt="Sample javascript" />
+            <img src="./images/sample-shell.png" alt="Sample ShellScript" />
         </div>
 
         <div class="image-set">
             <h3>Haskell</h3>
-            <img src="../images/sample-haskell.png" alt="Sample javascript" />
+            <img src="./images/sample-haskell.png" alt="Sample Haskell" />
         </div>
 
         <div class="image-set">
             <h3>C++</h3>
-            <img src="../images/sample-cpp.png" alt="Sample javascript" />
+            <img src="./images/sample-cpp.png" alt="Sample C++" />
         </div>
 
         <div class="image-set">
             <h3>Scala</h3>
-            <img src="../images/sample-scala.png" alt="Sample javascript" />
+            <img src="./images/sample-scala.png" alt="Sample Scala" />
         </div>
 
         <div class="image-set">
             <h3>Ruby</h3>
-            <img src="../images/sample-ruby.png" alt="Sample javascript" />
+            <img src="./images/sample-ruby.png" alt="Sample Ruby" />
         </div>
-
     </div>
 </body>
 </html>
