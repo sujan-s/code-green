@@ -954,5 +954,51 @@
                 "foreground": "#82aaff"
             }
         },
+        {
+            "name": "Python",
+            "scope": ["keyword.control.flow.python"],
+            "settings": {
+                "foreground": "#ff5370"
+            }
+        },
+        {
+            "name": "Python",
+            "scope": ["source.python"],
+            "settings": {
+                "foreground": "#c3e88d"
+            }
+        },
+        {
+            "name": "Python",
+            "scope": ["meta.function-call.arguments.python"],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Python",
+            "scope": ["storage.type.function.python"],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#ffcb6b"
+            }
+        },
+        {
+            "name": "Python",
+            "scope": ["keyword.operator.logical.python"],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#f78c6c"
+            }
+        },
+        {
+            "name": "Python",
+            "scope": ["entity.name.function.python"],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#dbdc0a"
+            }
+        },
     ]
 }
