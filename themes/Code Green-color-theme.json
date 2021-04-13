@@ -1000,5 +1000,54 @@
                 "foreground": "#dbdc0a"
             }
         },
+        {
+            "name": "Assembly",
+            "scope": ["source.platformio-debug-asm"],
+            "settings": {
+                "foreground": "#dbdc0a"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["constant.numeric.dec"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["support.directive.asm"],
+            "settings": {
+                "foreground": "#ff5370"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["constant.language.registers.general-purpose"],
+            "settings": {
+                "foreground": "#ff5370"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["source.platformio-debug-asm"],
+            "settings": {
+                "foreground": "#ffcb6b"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["constant.numeric.hex"],
+            "settings": {
+                "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "Assembly",
+            "scope": ["support.type.asm"],
+            "settings": {
+                "foreground": "#c3e88d"
+            }
+        },
     ]
 }
