@@ -27,6 +27,7 @@
         "dropdown.border": "#1a3c35",
 
         "diffEditor.diagonalFill": "#2c6357",
+        "diffEditor.insertedTextBackground": "#dbdc0a33",
         "diffEditor.insertedTextBorder": "#dbdc0a33",
         "diffEditor.removedTextBackground": "#f3463966",
         "diffEditor.removedTextBorder": "#f3463966",
@@ -47,6 +48,7 @@
         "editorCursor.foreground": "#dbdc0a",
 
         "editorGroup.border": "#367c6d",
+        "editorGroup.dropBackground": "#367c6d",
         "editorGroupHeader.tabsBackground": "#1a3c35",
         "editorGroupHeader.tabsBorder": "#1a3c35",
 
@@ -84,6 +86,7 @@
         "gitDecoration.modifiedResourceForeground": "#2caf93",
         "gitDecoration.renamedResourceForeground": "#dbdc0a",
         "gitDecoration.untrackedResourceForeground": "#439987",
+        "gitDecoration.ignoredResourceForeground": "#1a3c35",
 
         "input.background": "#1f473f",
         "input.border": "#285c51",
@@ -120,7 +123,7 @@
 
         "progressBar.background": "#0ccfa5",
 
-        "scrollbarSlider.background": "#439987",
+        "scrollbarSlider.background": "#43998799",
         "scrollbarSlider.hoverBackground": "#0ccfa5",
         "scrollbarSlider.activeBackground": "#439987",
 
