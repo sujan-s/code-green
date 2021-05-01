@@ -28,20 +28,21 @@
 
         "diffEditor.diagonalFill": "#2c6357",
         "diffEditor.insertedTextBackground": "#dbdc0a33",
-        "diffEditor.insertedTextBorder": "#dbdc0a33",
+        "diffEditor.insertedTextBorder": "#dbdc0a00",
         "diffEditor.removedTextBackground": "#f3463966",
-        "diffEditor.removedTextBorder": "#f3463966",
+        "diffEditor.removedTextBorder": "#f3463900",
 
         "editor.background": "#224e44",
         "editor.foreground": "#eeffff",
-        "editor.findMatchBackground": "#2c6357",
-        "editor.findMatchHighlightBackground": "#43998766",
+        "editor.findMatchBackground": "#367c6d99",
+        "editor.findMatchHighlightBackground" : "#367c6d33",
+        "editor.findMatchHighlightBorder"     : "#367c6d33",
         "editor.findRangeHighlightBackground": "#142e2866",
         "editor.lineHighlightBorder": "#224e44",
         "editor.lineHighlightBackground": "#2c6357",
 
-        "editor.selectionBackground": "#367c6d",
-        "editor.selectionHighlightBackground": "#2c6357",
+        "editor.selectionBackground": "#367c6d99",
+        "editor.selectionHighlightBackground": "#367c6d33",
 
         "editorBracketMatch.background": "#439987",
 
@@ -86,7 +87,7 @@
         "gitDecoration.modifiedResourceForeground": "#2caf93",
         "gitDecoration.renamedResourceForeground": "#dbdc0a",
         "gitDecoration.untrackedResourceForeground": "#439987",
-        "gitDecoration.ignoredResourceForeground": "#1a3c35",
+        "gitDecoration.ignoredResourceForeground": "#367c6d",
 
         "input.background": "#1f473f",
         "input.border": "#285c51",
