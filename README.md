@@ -18,3 +18,16 @@
 7. Rate it 5 ⭐ in the
    [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Sujan.code-green).
 8. Buy me a [beer or a coffee](https://paypal.me/sujansundareswaran)?
+
+---
+
+#### Sample images
+Check out the [microsite](https://code-chroma.com/).
+![Code Green](/microsite/images/cg-ide.png)
+![Typescript](/microsite/images/typescript.png)
+![Javascript](/microsite/images/js.png)
+![CSS](/microsite/images/css.png)
+![Haskell](/microsite/images/haskell.png)
+![HTML](/microsite/images/html.png)
+![Ruby](/microsite/images/ruby.png)
+![Python](/microsite/images/python.png)
